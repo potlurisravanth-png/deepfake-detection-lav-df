@@ -36,3 +36,9 @@ The **LAV-DF** dataset contains videos that are mostly real, with only small seg
 *   `src/`: Contains the modular source code (`model.py`, `data_loader.py`).
 *   `notebooks/`: The original Jupyter Notebook used for research.
 *   `docs/`: Project reports and detailed documentation.
+
+## ⚖️ License & Acknowledgements
+This project utilizes the **LAV-DF Dataset** for training and validation.
+* **License:** Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0).
+* **Usage:** This repository is for educational and portfolio demonstration purposes only.
+* **Citation:** Cai, Z., et al. (2022). "Do You Really Mean That? Content Driven Audio-Visual Deepfake Dataset."
